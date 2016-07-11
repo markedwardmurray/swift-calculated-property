@@ -6,9 +6,6 @@
 2. Identify when to utilize a calculated property.
 3. Create a non-numerical calculated property.
 
-
-Before getting started, create a new Swift-based Xcode project.
-
 ## Calculated Properties
 
 Calculated properties can be used for properties that rely on the state of other properties. Instead of constantly updating the value of the property that depends on the state of other properties whenever those states change, we can write a calculated property which only determines its present value at the moment that it is accessed. The syntax for a calculated property generally follows:
