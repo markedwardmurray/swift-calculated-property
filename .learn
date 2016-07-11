@@ -1,3 +1,5 @@
 tags:
+  - intermediate
+  - classes
 languages:
-resources:
+  - swift
