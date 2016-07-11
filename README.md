@@ -2,6 +2,7 @@
 
 ## Objectives
 
+<<<<<<< HEAD
 1. Learn the calculated property syntax.
 2. Identify when to utilize a calculated property.
 3. Create a non-numerical calculated property.
@@ -142,3 +143,7 @@ Mark Murray
 Marky Mark and the Funky Bunch
 ```
 ![](https://curriculum-content.s3.amazonaws.com/swift/swift-calculated-property/Wildside.jpg)
+=======
+## Introduction
+<a href='https://learn.co/lessons/swift-calculated-property' data-visibility='hidden'>View this lesson on Learn.co</a>
+>>>>>>> master
